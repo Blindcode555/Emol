@@ -1,1 +1,0 @@
-export default function CreateContent() { return <h2>Create Content</h2> }
